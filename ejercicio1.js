@@ -9,6 +9,7 @@ for(let i = 0; i < movimientos.length; i ++){
     }
 }
 console.log("\n********* EJERCICIO 1 *********\n");
+console.log("----Movimientos del mes----   ")
 console.log(`Total saldo cuenta: ${total}`)
 console.log(`Cantidad de retiros: ${cantidadRetiros}`)
 
